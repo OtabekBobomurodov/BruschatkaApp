@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98b3171d-8fed-47df-b87a-45e49a25b53d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eJ9gHZhCPlo5nx46jbbPqP862B" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/AAAA Otabek/MyProjects/career-app-react" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://bslbruschatki.uz" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Clients.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Pages/Clients.js" working-dir="$PROJECT_DIR$/src/Pages">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Clients.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98b3171d-8fed-47df-b87a-45e49a25b53d" name="Default Changelist" comment="" />
+      <created>1594014145217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594014145217</updated>
+      <workItem from="1594014149551" duration="7759000" />
+      <workItem from="1594028943751" duration="20770000" />
+      <workItem from="1594096892500" duration="19112000" />
+      <workItem from="1594185022891" duration="15378000" />
+      <workItem from="1594369071256" duration="11005000" />
+      <workItem from="1594442813749" duration="21572000" />
+      <workItem from="1594530356579" duration="10325000" />
+      <workItem from="1594619752283" duration="1883000" />
+      <workItem from="1594707602623" duration="273000" />
+      <workItem from="1594792932841" duration="5199000" />
+      <workItem from="1595154686503" duration="1594000" />
+      <workItem from="1595252098452" duration="5132000" />
+      <workItem from="1595614622887" duration="21000" />
+      <workItem from="1595745453620" duration="2845000" />
+      <workItem from="1595834816695" duration="7617000" />
+      <workItem from="1595908636390" duration="2125000" />
+      <workItem from="1596531987175" duration="1161000" />
+      <workItem from="1596614660068" duration="3935000" />
+      <workItem from="1596734699723" duration="21000" />
+      <workItem from="1596798385750" duration="2187000" />
+      <workItem from="1596889308982" duration="1820000" />
+      <workItem from="1596952194707" duration="261000" />
+      <workItem from="1597033788404" duration="2197000" />
+      <workItem from="1597125306569" duration="2911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
